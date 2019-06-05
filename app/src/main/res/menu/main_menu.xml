@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/mycart"
+        android:title="@string/cart"
+        app:showAsAction="always" />
+    <item android:title="My Profile"
+        android:id="@+id/myprofile"/>
+    <item android:title="Booked History"
+        android:id="@+id/myhistory"/>
+
+    <item
+        android:id="@+id/myAboutUs"
+        android:title="About Us" />
+
+    <item
+        android:id="@+id/myLogout"
+        android:title="Log Out" />
+
+</menu>

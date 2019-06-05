@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">Domestic Service App</string>
+    <string name="youremail">Your Email</string>
+    <string name="yourpassword">Your Password</string>
+    <string name="login">Login</string>
+    <string name="rememberme">Remember Me</string>
+    <string name="newregistration">Register Here</string>
+    <string name="forgotpassword">Forgot Password ?</string>
+    <string name="clicktotake">Click above to take picture</string>
+    <string name="location">Location</string>
+    <string name="phone">Mobile Phone</string>
+    <string name="name">Name</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="sethomelocation">Home Location</string>
+    <string name="register">Register</string>
+    <string name="alreadyregister">Already Register ?</string>
+    <string name="registration">Registration</string>
+    <string name="close">CLOSE</string>
+    <string name="dialogtakepicture">Take Picture?</string>
+    <string name="dialogtakepicturea">Make sure to use your own picture</string>
+    <string name="yesbutton">Yes</string>
+    <string name="nobutton">No</string>
+    <string name="selectlocation">Select Services</string>
+    <string name="cart">My Cart</string>
+    <string name="registerdialognew">Register new account</string>
+    <string name="registrationprocess">Registration in progress</string>
+    <string name="registerfor">Register for</string>
+
+    <string-array name="location">
+        <item>All location</item>
+        <item>Changlun</item>
+        <item>Sintok</item>
+        <item>Bukit Kayu Hitam</item>
+    </string-array>
+
+    <string-array name="mainservice">
+        <item>All </item>
+        <item>Repair and Maintenance</item>
+        <item>Events and Occasions</item>
+        <item>Shifting Home</item>
+        <item>Health and Wellness</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="facebook_app_id">471165723689711</string>
+
+</resources>
